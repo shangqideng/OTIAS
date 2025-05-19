@@ -13,7 +13,7 @@ ______
 
 ### Data :balloon:
 
-Complete training and test data download link:
+Completed training and test data download link:
 ______
 
 
