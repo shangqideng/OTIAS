@@ -33,7 +33,7 @@ If this article has been helpful to you, please kindly cite these as follows：
   number={},\
   pages={1-15}}\
 
-@ARTICLE{10750035, \
+@ARTICLE{10750035, 
   author={Wu, Ruo-Cheng and Deng, Shangqi and Ran, Ran and Dou, Hong-Xia and Deng, Liang-Jian},\
   journal={IEEE Transactions on Computational Imaging}, \
   title={INF3: Implicit Neural Feature Fusion Function for Multispectral and Hyperspectral Image Fusion}, \
@@ -50,7 +50,7 @@ If this article has been helpful to you, please kindly cite these as follows：
   number={3},\
   pages={2708--2716},\
   year={2025}\
-}\
+}
 
 
 
