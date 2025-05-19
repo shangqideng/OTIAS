@@ -1,27 +1,28 @@
 # OTIAS
 Pytorch version for OTIAS（AAAI 2025）
 
-### Plateform
+### Plateform :sparkles:
 Python 3.11 + Pytorch 2.4.0
 ______
 
-### Pretrained models
+### Pretrained models :sparkles:
 The pretrained checkpoints list in the .\pretrained model\
 ______
 
-### Data
+### Data :balloon:
 
 Complete training and test data download link:
 1. <https://pan.baidu.com/s/1SLR0QKVyMWOOuYIYgcNv_Q?pwd=7ja6>
 
-### Test
-Noting that we conduct testing using MATLAB, and the testing code link is as follows:
+### Test :sparkles:
+
+**Noting that we conduct testing using MATLAB, and the testing code link is as follows:**
 
 2. <https://pan.baidu.com/s/1qrwyq8JGf6HkkOf0zHsM3g?pwd=55mf>
 
 ______
 
-### Bib reference
+### Bib reference :sparkles:
 If this article has been helpful to you, please kindly cite these as follows：
 
 @ARTICLE{10315964, \
