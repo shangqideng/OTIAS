@@ -14,10 +14,9 @@ ______
 ### Data :balloon:
 
 Completed training and test data download link:
-______
-
 
 2. <https://pan.baidu.com/s/1SLR0QKVyMWOOuYIYgcNv_Q?pwd=7ja6>
+______
 
 ### Test :sparkles:
 
@@ -35,7 +34,7 @@ ______
 
 ______
 
-### Bib reference :sparkles:
+### Bib references :sparkles:
 If this article has been helpful to you, please kindly cite these as follows：
 
 @ARTICLE{10315964, \
