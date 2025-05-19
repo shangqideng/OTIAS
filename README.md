@@ -1,5 +1,5 @@
 # OTIAS
-Pytorch version for OTIAS（AAAI 2025）\
+Pytorch version for OTIAS（AAAI 2025）
 
 ### Plateform
 Python 3.11 + Pytorch 2.4.0
