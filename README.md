@@ -31,7 +31,7 @@ If this article has been helpful to you, please kindly cite these as follows：
   year={2023},\
   volume={61},\
   number={},\
-  pages={1-15}}\
+  pages={1-15}}
 
 @ARTICLE{10750035, 
   author={Wu, Ruo-Cheng and Deng, Shangqi and Ran, Ran and Dou, Hong-Xia and Deng, Liang-Jian},\
@@ -40,7 +40,7 @@ If this article has been helpful to you, please kindly cite these as follows：
   year={2024},\
   volume={10},\
   number={},\
-  pages={1547-1558}}\
+  pages={1547-1558}}
 
 @inproceedings{deng2025otias,\
   title={OTIAS: OcTree Implicit Adaptive Sampling for Multispectral and Hyperspectral Image Fusion},\
