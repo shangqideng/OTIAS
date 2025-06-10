@@ -1,7 +1,7 @@
 # OTIAS
 Pytorch version for OTIAS（AAAI 2025）
-<img width="507" alt="1749537525770" src="https://github.com/user-attachments/assets/d4ef1943-8015-4a70-a191-54600dfc0aec" />
-<img width="659" alt="1749537549382" src="https://github.com/user-attachments/assets/c717db1f-07f8-4ed1-98fa-03e4890e9aee" />
+<img width="1388" alt="1749537640869" src="https://github.com/user-attachments/assets/7705cdd2-1bd3-4542-ad26-e8abff77064f" />
+
 
 
 ### Plateform :sparkles:
